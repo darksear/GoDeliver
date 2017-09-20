@@ -1,0 +1,7 @@
+Readme file for GoDeliver
+
+Goals
+- Integrate with Google Maps to easily locate and route deliveries even to apartments or condos
+- Keep track of tips and mileage.
+- Ability to text or call customer.
+- Save tip data to database to share with other drivers.
